@@ -1,0 +1,17 @@
+export const IMAGES = {
+  recycling: 'https://images.pexels.com/photos/34406294/pexels-photo-34406294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  bins: 'https://images.pexels.com/photos/17195443/pexels-photo-17195443.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  sorting: 'https://images.pexels.com/photos/7512833/pexels-photo-7512833.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  segregation: 'https://images.pexels.com/photos/17869493/pexels-photo-17869493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  recycling2: 'https://images.pexels.com/photos/7512900/pexels-photo-7512900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  campus1: 'https://images.pexels.com/photos/20200756/pexels-photo-20200756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  campus2: 'https://images.pexels.com/photos/37145891/pexels-photo-37145891.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  campus3: 'https://images.pexels.com/photos/798721/pexels-photo-798721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  campus4: 'https://images.pexels.com/photos/5147362/pexels-photo-5147362.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  kitchen: 'https://images.pexels.com/photos/17318176/pexels-photo-17318176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  canteen: 'https://images.pexels.com/photos/7140280/pexels-photo-7140280.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  foodWaste: 'https://images.pexels.com/photos/8466654/pexels-photo-8466654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  sprout: 'https://images.pexels.com/photos/28239594/pexels-photo-28239594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  leafHand: 'https://images.pexels.com/photos/10543617/pexels-photo-10543617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  leafHand2: 'https://images.pexels.com/photos/12561900/pexels-photo-12561900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+};
